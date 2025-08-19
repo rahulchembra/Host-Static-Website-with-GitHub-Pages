@@ -4,7 +4,7 @@ A simple HTML + CSS website created for practice and hosted on **GitHub Pages**.
 
 ## 🚀 Live Demo
 [View Site Here]
-
+ https://rahulchembra.github.io/Host-Static-Website-with-GitHub-Pages/
 ## 📂 Project Structure
 repository-name/
 ├── index.html      # Main HTML page
@@ -26,7 +26,7 @@ repository-name/
 2. Go to **Settings → Pages**.
 3. Set **Source** to main branch, / (root) folder.
 4. Save and wait a minute — your site will be live at:
-   
+    https://rahulchembra.github.io/Host-Static-Website-with-GitHub-Pages/
 
 ## 📜 License
 This project is open source and available under the MIT License.
