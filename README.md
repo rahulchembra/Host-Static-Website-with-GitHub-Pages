@@ -18,7 +18,7 @@ repository-name/
 
 ## 🛠 How to Run Locally
 1. Clone this repository:
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone https://github.com/rahulchembra/Host-Static-Website-with-GitHub-Pages.git
 2. Open index.html in your browser.
 
 ## 🌐 Hosting with GitHub Pages
